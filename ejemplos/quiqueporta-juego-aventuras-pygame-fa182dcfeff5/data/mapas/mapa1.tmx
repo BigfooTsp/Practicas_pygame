@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="30" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="tileset" tilewidth="16" tileheight="16">
+  <image source="../imagenes/tileset.png" trans="ff00ff" width="220" height="220"/>
+ </tileset>
+ <layer name="Pisable" width="30" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NkYGBgHMSY2mCg7cXmDmzytALodtDTXmz+H6724nLLKBgFo2AUjIJRMNwBer2LjU2KulEwCkYBbQEABqikSBAOAAA=
+  </data>
+ </layer>
+ <layer name="Suelo" width="30" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGBjANIoHFGsDsQ4Q69LZXgsgtgRiKzrb6wrEbkDsPgjCnppYkkgsRYJaYrAakVidBLXUxKP2jto7au+ovSPVXmMisQkJaonBA10f0hszDxAeaH+PFEzNNhMt2lfUxgCdozRpEA4AAA==
+  </data>
+ </layer>
+ <layer name="Objetos" width="30" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA6tiYGCoIgJTG+Sg4VosYjk0sLcSDddgEaukgb3ooAaNrwzEKgNgrwEQG9LB3jw0Pr38W43Gp5d/R8EoGAWjYBSMgoEGvkSwSVFHLIgigk2KulEwCkYBbQEAdznZnRAOAAA=
+  </data>
+ </layer>
+ <layer name="Objetos superpuestos" width="30" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGFnACYid0cQ0gViLxvb6A3EAmpgZEJvT2N5RMApGwSgYBaNgFIyCUTAKRsEowAUAzAA+CxAOAAA=
+  </data>
+ </layer>
+ <layer name="Cielo" width="30" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3BAQEAAACCIP+vbkhAAQAA8Gh7blyXEA4AAA==
+  </data>
+ </layer>
+</map>

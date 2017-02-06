@@ -1,0 +1,45 @@
+{ "height":15,
+ "layers":[
+        {
+         "compression":"zlib",
+         "data":"eJx7ycjA8HIUDxk8CkbBUACTmRgYpgDxVCCexjTQrkGAwequ4Q7qgWHdAA3vBzjwUASzgH6aTUQ6KqW9UygGyHFEir9gmBwAqtJYoJgRjYaxKQXIfiHHX4Ml7pDjBwSo4a+B8Bs+f6DzKfEXvf2Gzx\/ofEr9hc1vcxnIb1caArEREBsDsQkV2qnUNg8AVqa43Q==",
+         "encoding":"base64",
+         "height":15,
+         "name":"Capa de Patrones 1",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":54,
+         "x":0,
+         "y":0
+        }],
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "properties":
+    {
+
+    },
+ "renderorder":"right-down",
+ "tileheight":16,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "image":"..\/images\/Mario Bros Tileset.png",
+         "imageheight":546,
+         "imagewidth":485,
+         "margin":0,
+         "name":"Mario Bros Tileset",
+         "properties":
+            {
+
+            },
+         "spacing":2,
+         "tilecount":810,
+         "tileheight":16,
+         "tilewidth":16,
+         "transparentcolor":"#ffffd5"
+        }],
+ "tilewidth":16,
+ "version":1,
+ "width":54
+}

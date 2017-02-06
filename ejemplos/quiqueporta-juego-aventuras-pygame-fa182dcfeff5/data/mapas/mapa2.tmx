@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="10" height="10" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="tileset" tilewidth="16" tileheight="16">
+  <image source="../imagenes/tileset.png" trans="ff00ff" width="220" height="220"/>
+ </tileset>
+ <layer name="Pisable" width="10" height="10">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgwA0YkTA2cUJiuOQZsYjh0kMMoLY6ZPXE+okYc7CpRQ8XAAONwHWQAQAA
+  </data>
+ </layer>
+ <layer name="Suelo" width="10" height="10">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC7NlYGCwJYAZiFAznNQRi2nhPgBYqvhqkAEAAA==
+  </data>
+ </layer>
+ <layer name="Objetos" width="10" height="10">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgwA3soJgYcWzqkEEKEKeiieUDcQEBfQMJiHEfIX8jq8OmFj1cAAF9sBOQAQAA
+  </data>
+ </layer>
+ <layer name="Objetos superpuestos" width="10" height="10">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAWDCQAADA0iRpABAAA=
+  </data>
+ </layer>
+ <layer name="Cielo" width="10" height="10">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgwA68gNgbTSwUiMPQxMKBOAJNLAmIk3GYS0uAzX3YACXuwxYu2AC2cCEGAABBJsxnkAEAAA==
+  </data>
+ </layer>
+</map>

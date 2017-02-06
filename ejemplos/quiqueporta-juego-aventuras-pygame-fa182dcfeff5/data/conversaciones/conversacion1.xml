@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<conversation>
+  <dialogue id="0">
+    <speech>Hola, ¿que quieres?.</speech>
+    <response id="0" nextdialogue="1" respuesta="None">Dejame el ordenador.</response>
+    <response id="1" nextdialogue="0" respuesta="None">Nada.</response>
+  </dialogue>
+  <dialogue id="1">
+    <speech>Necesitaria una taza de cafe.\n Si me la traes me voy.</speech>
+    <response id="0" nextdialogue="0" respuesta="None">Vale.</response>
+    <response id="1" nextdialogue="0" respuesta="None">Ni lo pienses.</response>
+  </dialogue>
+  <dialogue id="2">
+    <speech>¿Me has traido el cafe?.</speech>
+    <response id="0" nextdialogue="4" respuesta="None">Si, toma.</response>
+  </dialogue>
+  <dialogue id="3">
+    <speech>Me quedo con la taza.</speech>
+    <response id="0" nextdialogue="0" respuesta="None"> </response>
+  </dialogue>
+  <dialogue id="4">
+    <speech>Ummm, muy bueno.\n Gracias.</speech>
+    <response id="0" nextdialogue="0" respuesta="SI_CAFE">De nada.</response>
+  </dialogue>
+  <dialogue id="5">
+    <speech>¡Dejame! que ahora estoy leyendo.\n Vete con tu ordenador.</speech>
+    <response id="0" nextdialogue="0" respuesta="None">Vale.</response>
+  </dialogue>
+  <dialogue id="6">
+    <speech>SYSTEM LOADING ...</speech>
+    <response id="0" nextdialogue="7" respuesta="None"> </response>
+  </dialogue>
+  <dialogue id="7">
+    <speech>Credits</speech>
+    <response id="0" nextdialogue="8" respuesta="None">...</response>
+  </dialogue>
+  <dialogue id="8">
+    <speech>K & K Software Presents (1994) .</speech>
+    <response id="0" nextdialogue="9" respuesta="None"> </response>
+  </dialogue>
+  <dialogue id="9">
+    <speech>Presenta ...</speech>
+    <response id="0" nextdialogue="10" respuesta="None"> </response>
+  </dialogue>
+  <dialogue id="10">
+    <speech>Keko, esto te lo dedico\n jejejeje</speech>
+    <response id="0" nextdialogue="0" respuesta="None"> </response>
+  </dialogue>
+</conversation>

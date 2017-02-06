@@ -1,0 +1,45 @@
+{ "height":15,
+ "layers":[
+        {
+         "compression":"zlib",
+         "data":"eJxjYBgFo2AUjIJRMApGNmAEYhYozYjEh4mNglGACwzn9AHLC+ToI0cPch4czXvUA\/VMDAwNTJSrGQqAkD9mAeVmE\/AnMWqGAiDkj8EWFsFYxDqHABZjRGBa2gMA4EMsIA==",
+         "encoding":"base64",
+         "height":15,
+         "name":"Suelo",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":67,
+         "x":0,
+         "y":0
+        }],
+ "nextobjectid":6,
+ "orientation":"orthogonal",
+ "properties":
+    {
+
+    },
+ "renderorder":"right-down",
+ "tileheight":16,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "image":"..\/images\/Mario Bros tileset.png",
+         "imageheight":546,
+         "imagewidth":485,
+         "margin":0,
+         "name":"Mario Bros tileset",
+         "properties":
+            {
+
+            },
+         "spacing":2,
+         "tilecount":810,
+         "tileheight":16,
+         "tilewidth":16,
+         "transparentcolor":"#ffffd5"
+        }],
+ "tilewidth":16,
+ "version":1,
+ "width":67
+}

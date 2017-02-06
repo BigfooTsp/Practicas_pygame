@@ -1,0 +1,45 @@
+{ "height":15,
+ "layers":[
+        {
+         "compression":"zlib",
+         "data":"eJzt1UdOw0AYhuGxCX3Pjl5WtCW9rGhLbkAVOzZeQmgbbgAJ5QyQQjkDpFDOQC9H4EVKFDSKiZPYcSTPJz2Kxko0\/8xnKUKoqKioqHg13ZoQPehFH\/o1tyfydqa4\/2nMYBZzqg9Xs8D9L2IJy1jBaqqTNdWNYzFMnm9w55vwYwvb2MEu9lQfjsQQ5n0ccOeHCCCIIxzjBKce6eP3mL7Up\/ZnnX5mZwyRvY8zNjpHCGFEEMUFLnGFa4\/0UaoYwryPG+76FjHEkUASd7jHAx4L7EN+35x4z0qdYueXu5D7eGKDZ7zgFW94xwc+8YVvkyH8Ov81epED5hEr++U7U\/pdyTeF\/CZbF3IfOrNXwIdKVKEaNahFHepNzhfgedDGPnLdpZX97J7Jrph1IffRyOxNaEYLWtGGdnSgE13S+UKsw4ggauPZc91lufUxb\/F7\/3Uh9zHA7IMYwjBGMIoxjGMCk9L5YqzjSCCJfVH+GrQMJ\/dZ1zPcOusPZ3uBIg==",
+         "encoding":"base64",
+         "height":15,
+         "name":"Suelo",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":100,
+         "x":0,
+         "y":0
+        }],
+ "nextobjectid":6,
+ "orientation":"orthogonal",
+ "properties":
+    {
+
+    },
+ "renderorder":"right-down",
+ "tileheight":16,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "image":"..\/images\/Mario Bros tileset.png",
+         "imageheight":546,
+         "imagewidth":485,
+         "margin":0,
+         "name":"Mario Bros tileset",
+         "properties":
+            {
+
+            },
+         "spacing":2,
+         "tilecount":810,
+         "tileheight":16,
+         "tilewidth":16,
+         "transparentcolor":"#ffffd5"
+        }],
+ "tilewidth":16,
+ "version":1,
+ "width":100
+}
